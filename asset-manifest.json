@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d06ed1e.css",
-    "main.js": "/static/js/main.400849fa.js",
+    "main.js": "/static/js/main.e7f20c17.js",
     "static/media/video2.mp4": "/static/media/video2.361ae77b4b13fb24426b.mp4",
     "static/media/worker-patient.jpg": "/static/media/worker-patient.b8bcb0fa6df979836e78.jpg",
     "static/media/logo2.jpg": "/static/media/logo2.cd979866d7273b4f32c7.jpg",
@@ -10,10 +10,10 @@
     "static/media/img3.jpg": "/static/media/img3.3fc9a54b35e5ec745a5e.jpg",
     "index.html": "/index.html",
     "main.1d06ed1e.css.map": "/static/css/main.1d06ed1e.css.map",
-    "main.400849fa.js.map": "/static/js/main.400849fa.js.map"
+    "main.e7f20c17.js.map": "/static/js/main.e7f20c17.js.map"
   },
   "entrypoints": [
     "static/css/main.1d06ed1e.css",
-    "static/js/main.400849fa.js"
+    "static/js/main.e7f20c17.js"
   ]
 }
