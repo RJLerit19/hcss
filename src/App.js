@@ -3,6 +3,7 @@ import Home from "./Pages/Home";
 import FindWork from "./Pages/FindWork";
 import ClientSolutions from "./Pages/ClientSolutions";
 import ContactUs from "./Pages/ContactUs";
+import ScrollToTop from "./Component/ScrollToTop";
 
 function App() {
   return (

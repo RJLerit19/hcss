@@ -7,7 +7,7 @@ const ContactForm = () => {
         <p className="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-bold pb-6">
           HCSS HEALTHCARE STAFFING
         </p>
-        <div className="relative flex flex-col items-center">
+        <div className="relative flex flex-col items-center pb-[150px]">
           <div className=" w-full border-b-2 border-black pt-2"></div>
           <p className="text-3xl font-semibold font-lato pt-10 pb-6">
             Drop us a Line!
