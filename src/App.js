@@ -1,24 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, Routes } from "react-router-dom";
+import Home from "./Pages/Home";
+import FindWork from "./Pages/FindWork";
+import ClientSolutions from "./Pages/ClientSolutions";
+import ContactUs from "./Pages/ContactUs";
+import CAPrivacyPolicy from "./Pages/CAPrivacyPolicy";
+import PrivacyPolicy from "./Pages/PrivacyPolicy";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route index element={<Home />} />
+      <Route path="/home" element={<Home />} />
+      <Route path="/FindWork" element={<FindWork />} />
+      <Route path="/ClientSolutions" element={<ClientSolutions />} />
+      <Route path="/ContactUs" element={<ContactUs />} />
+      <Route path="/CAPrivacyPolicy" element={<CAPrivacyPolicy />} />
+      <Route path="/PrivacyPolicy" element={<PrivacyPolicy />} />
+    </Routes>
   );
 }
 
