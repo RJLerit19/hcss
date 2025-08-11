@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hcss/static/css/main.97043733.css",
+    "main.js": "/hcss/static/js/main.0393992f.js",
+    "static/media/video2.mp4": "/hcss/static/media/video2.361ae77b4b13fb24426b.mp4",
+    "static/media/worker-patient.jpg": "/hcss/static/media/worker-patient.b8bcb0fa6df979836e78.jpg",
+    "static/media/logo2.jpg": "/hcss/static/media/logo2.cd979866d7273b4f32c7.jpg",
+    "static/media/img2.jpg": "/hcss/static/media/img2.8457c05d9715221d3dc2.jpg",
+    "static/media/img1.jpg": "/hcss/static/media/img1.943a464a6a7fc5034c34.jpg",
+    "static/media/img3.jpg": "/hcss/static/media/img3.3fc9a54b35e5ec745a5e.jpg",
+    "index.html": "/hcss/index.html",
+    "main.97043733.css.map": "/hcss/static/css/main.97043733.css.map",
+    "main.0393992f.js.map": "/hcss/static/js/main.0393992f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97043733.css",
+    "static/js/main.0393992f.js"
+  ]
+}
