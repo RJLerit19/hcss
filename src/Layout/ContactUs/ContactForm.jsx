@@ -2,7 +2,7 @@ import React from "react";
 
 const ContactForm = () => {
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full xxl:w-[1920px] xxl:mx-auto">
       <div className="xs:mx-[30px] md:mx-[50px] lg:mx-[70px] my-[30px]">
         <p className="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-bold pb-6">
           HCSS HEALTHCARE STAFFING

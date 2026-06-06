@@ -3,7 +3,7 @@ import FactsCountUp from "../../Component/FactsCountUp";
 
 const Facts = () => {
   return (
-    <div className="relative h-full w-full pt-[50px]">
+    <div className="relative h-full w-full pt-[50px] xxl:w-[1920px] xxl:mx-auto">
       <div className="xs:mx-[30px] md:mx-[50px] lg:mx-[70px] my-[30px]">
         <p className="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-bold pb-[60px]">
           A FEW FACTS ABOUT OUR COMPANY

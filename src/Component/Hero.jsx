@@ -33,7 +33,7 @@ const Hero = () => {
 
       <div className="hidden relative w-full h-full text-white xxl:block">
         <div className="w-full h-[900px] bg-gray-900"></div>
-        <div className="absolute inset-0 flex justify-between items-center mx-96">
+        <div className="absolute inset-0 flex justify-between items-center mx-96 xxl:w-[1920px] xxl:mx-auto">
           <div className="px-4 pt-14 tracking-widest md:left-10 md:max-w-[700px]">
             <h1 className="text-2xl tracking-wide font-bold sm:text-5xl md:text-4xl lg:text-5xl">
               Strike and Crisis Staffing for Healthcare Facilities

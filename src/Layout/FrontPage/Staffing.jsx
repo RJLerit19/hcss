@@ -7,7 +7,7 @@ import workerpatient from "../../img/worker-patient.jpg"; // Placeholder image, 
 import "../../index.css"; // Ensure custom styles are applied
 const Staffing = () => {
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full xxl:w-[1920px] xxl:mx-auto">
       <div className="xs:mx-[30px] md:mx-[50px] lg:mx-[70px] my-[30px]">
         <div className="flex justify-around my-[50px] flex-wrap">
           <Card

@@ -5,8 +5,8 @@ import { NavLink } from "react-router-dom";
 const Join = () => {
   return (
     <div className="relative h-full w-full mt-[100px] py-[50px] bg-gray-800">
-      <div className="relative flex flex-wrap flex-col md:flex-row justify-around xs:mx-[30px] md:mx-[50px] lg:mx-[50px] my-[30px]">
-        <div className="flex flex-col justify-center w-full md:w-[28%] xs:mb-5 md:mb-0">
+      <div className="relative flex flex-wrap flex-col md:flex-row justify-around xs:mx-[30px] md:mx-[50px] lg:mx-[50px] my-[30px] xxl:w-[1920px] xxl:mx-auto">
+        <div className="flex flex-col justify-center w-full max-w-md mb-8 mx-auto">
           <p className="text-3xl font-bold tracking-widest pb-5 text-primary">
             HEALTHCARE WORKERS
           </p>
@@ -21,8 +21,7 @@ const Join = () => {
             WORKERS FIND OUR MORE
           </NavLink>
         </div>
-
-        <div className="flex flex-col justify-center w-full md:w-[28%] xs:mb-5 md:mb-0">
+        <div className="flex flex-col justify-center w-full max-w-md mb-8 mx-auto">
           <p className="text-3xl font-bold tracking-widest pb-5 text-primary">
             HEALTHCARE WORKERS
           </p>
@@ -40,8 +39,7 @@ const Join = () => {
         </div>
 
         {/* <div className="block md:hidden w-full border-b-2 border-black mb-5 md:mb-0"></div> */}
-
-        <div className="flex flex-col justify-center w-full md:w-[28%]">
+        <div className="flex flex-col justify-center w-full max-w-md mb-8 mx-auto">
           <p className="text-3xl font-bold tracking-widest pb-5 text-primary">
             HEALTHCARE FACILITIES
           </p>

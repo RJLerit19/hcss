@@ -3,7 +3,7 @@ import workerpatient from "../../img/worker-patient.jpg"; // Placeholder image, 
 
 const Apply = () => {
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full xxl:w-[1920px] xxl:mx-auto">
       <div className="xs:mx-[30px] md:mx-[50px] lg:mx-[70px] my-[30px]">
         <div className="flex flex-col justify-normal md:flex-row md:justify-between pt-8">
           <div className="w-full md:w-1/2 h-[460px]">

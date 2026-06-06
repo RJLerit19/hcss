@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const CAPrivacyPolicyLayout = () => {
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full xxl:w-[1920px] xxl:mx-auto">
       <div className="xs:mx-[30px] md:mx-[50px] lg:mx-[70px] my-[30px] text-gray-500">
         <div className="relative flex">
           <div className="xs:hidden md:flex w-[20%]"></div>

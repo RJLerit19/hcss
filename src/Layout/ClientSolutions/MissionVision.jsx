@@ -9,7 +9,7 @@ import "../../index.css"; // Ensure custom styles are applied
 
 const MissionVision = () => {
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full xxl:w-[1920px] xxl:mx-auto">
       <div className="xs:mx-[30px] md:mx-[50px] lg:mx-[70px] my-[30px]">
         <div className="flex justify-between pt-8 h-[full]">
           <div className="relative w-full lg:w-1/2">
