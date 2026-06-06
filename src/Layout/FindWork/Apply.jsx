@@ -31,7 +31,7 @@ const Apply = () => {
             </p>
             <br></br>
             <a
-              href="https://eww819.infusionsoft.app/app/form/rn-allied-general-survey-form-submitted?cookieSearchStarted=true&cookieUUID=4fe2e91e-c996-4ca4-8a76-b3ecf1f522af"
+              href="https://hcss.blueskymss.com/applyonline/default.aspx?applyform=2&alias=hcss"
               target="_blank"
               className="text-center px-5 py-2 bg-primary text-white rounded-lg font-semibold hover:bg-blue-500 shadow-md shadow-gray-700 cursor-pointer"
             >
@@ -82,7 +82,7 @@ const Apply = () => {
             </p>
             <br />
             <a
-              href="https://eww819.infusionsoft.app/app/form/rn-allied-general-survey-form-submitted?cookieSearchStarted=true&cookieUUID=4fe2e91e-c996-4ca4-8a76-b3ecf1f522af"
+              href="https://hcss.blueskymss.com/applyonline/default.aspx?applyform=2&alias=hcss"
               target="_blank"
               className="text-center px-5 py-2 bg-primary text-white rounded-lg font-semibold hover:bg-blue-500 shadow-md shadow-gray-700 cursor-pointer"
             >
