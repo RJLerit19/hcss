@@ -39,7 +39,7 @@ const Hero = () => {
               Strike and Crisis Staffing for Healthcare Facilities
             </h1>
             <button className="font-bold py-2 px-4 mt-2 text-sm hidden sm:block md:text-lg md:mt-5 bg-primary hover:bg-blue-600 shadow-md shadow-gray-900 rounded">
-              LEARN MORE
+              <Link to="/ClientSolutions">LEARN MORE</Link>
             </button>
           </div>
           <div className="px-4 pt-20 xs:hidden md:block md:max-w-[500px] lg:max-w-[600px]">
